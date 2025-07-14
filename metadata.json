@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. AI Assistant",
+  "description": "A futuristic AI assistant dashboard with a chat interface, voice commands, and a sleek, responsive UI. It uses the Gemini API for natural language understanding and the Web Speech API for voice integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
